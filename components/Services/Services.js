@@ -4,15 +4,15 @@ import Image from "next/image";
 const Services = () => {
   return (
     <div className="font-textfont text-textcolor">
-      <div className="mt-20 flex flex-col">
+      <div className="mt-48 flex flex-col">
         <h1 className="text-body1 font-light text-center">
           We are here to provide
         </h1>
-        <h1 className="text-head2 text-center font-bold">
+        <h1 className="text-head1 text-center font-bold">
           Experts Services To Change Business
         </h1>
-        <div className="mx-auto flex flex-wrap mt-10 w-5/6 justify-around">
-          <div className="mt-10 flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
+        <div className="mx-auto flex flex-wrap mt-10 w-5/6 justify-around space-y-8">
+          <div className=" flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
             <Image
               src={require("/assets/Weteck Homepage Assets/Component 8 – 1.svg")}
               width={"300px"}
@@ -26,7 +26,7 @@ const Services = () => {
               </h1>
             </div>
           </div>
-          <div className="mt-10 flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
+          <div className=" flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
             <Image
               src={require("/assets/Weteck Homepage Assets/undraw_usability_testing_re_uu1g.svg")}
               width={"300px"}
@@ -40,7 +40,7 @@ const Services = () => {
               </h1>
             </div>
           </div>
-          <div className="mt-10 flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
+          <div className=" flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
             <Image
               src={require("/assets/Weteck Homepage Assets/undraw_pair_programming_re_or4x.svg")}
               width={"300px"}
@@ -54,7 +54,7 @@ const Services = () => {
               </h1>
             </div>
           </div>
-          <div className="mt-10 flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
+          <div className=" flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
             <Image
               src={require("/assets/Weteck Homepage Assets/undraw_online_popularity_re_nm0s.svg")}
               width={"300px"}
@@ -68,7 +68,7 @@ const Services = () => {
               </h1>
             </div>
           </div>
-          <div className="mt-10 flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
+          <div className=" flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
             <Image
               src={require("/assets/Weteck Homepage Assets/undraw_visionary_technology_re_jfp7.svg")}
               width={"300px"}
@@ -82,7 +82,7 @@ const Services = () => {
               </h1>
             </div>
           </div>
-          <div className="mt-10 flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
+          <div className=" flex items-center w-100 bg-gradient-to-b from-conclr1 to-conclr2 justify-between py-8 rounded-xl">
             <Image
               src={require("/assets/Weteck Homepage Assets/undraw_building_websites_i78t.svg")}
               width={"300px"}

@@ -29,7 +29,7 @@ const Aboutus = () => {
                 </h1>
               </div>
               <div className="flex justify-between font-textfont mt-12">
-                <button className="text-sm uppercase rounded-full p-3 w-56 bg-gradient-to-b from-btnclr2 to-btnclr1">Learn more</button>
+                <button className="text-sm uppercase rounded-full p-3 w-56 bg-gradient-to-b from-btnclr1 to-btnclr2">Learn more</button>
                 <button className="text-sm uppercase border border-solid border-textcolor rounded-full p-3 w-56">Portfolio</button>
               </div>
             </div>

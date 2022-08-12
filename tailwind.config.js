@@ -10,7 +10,7 @@ module.exports = {
         'backimage1': "url('/assets/Weteck Homepage Assets/Component 4 – 1.svg')",
       },
       colors: {
-        'backcolor': "#020E18",
+        'backcolor': "#00172A",
         'textcolor': "#FFFFFF",
         'secbtnclr':'#FA4D4D',
         'learnmore':'#1F8EFF',
