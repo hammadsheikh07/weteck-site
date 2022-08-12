@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between px-14 mt-4">
       <div>
-        <img src="/wetecklogo.png" width={"150px"} />
+        <Image src="/wetecklogo.png" width={"150px"} height={"50px"}/>
       </div>
       <div>
         <ul className="text-textcolor flex justify-between font-textfont divide-x divide-solid divide-textcolor">
