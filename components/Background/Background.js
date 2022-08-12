@@ -26,6 +26,11 @@ const Background = () => {
           src={require("/assets/Weteck Homepage Assets/Component 6 – 1.svg")}
         />
       </div>
+      <div className="absolute -bottom-[2960px]  -left-64 w-2/5 -z-10">
+        <Image
+          src={require("/assets/Weteck Homepage Assets/Component 7 – 1.svg")}
+        />
+      </div>
     </div>
   );
 };
