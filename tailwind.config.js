@@ -13,6 +13,7 @@ module.exports = {
         'backcolor': "#020E18",
         'textcolor': "#FFFFFF",
         'secbtnclr':'#FA4D4D',
+        'learnmore':'#1F8EFF',
       },
       fontFamily: {
        'textfont': ['Poppins'],
@@ -26,6 +27,11 @@ module.exports = {
       gradientColorStops:{
         'btnclr1':'#037BDB',
         'btnclr2':'#1A99FF',
+        'conclr1':'#002A4D',
+        'conclr2':'#043D6DFA',
+      },
+      width:{
+        '100':'28rem',
       },
     },
   },
