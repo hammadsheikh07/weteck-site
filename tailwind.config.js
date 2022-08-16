@@ -23,6 +23,7 @@ module.exports = {
         'head3':'20px',
         'head1':'56px',
         'body1':'12px',
+        'body2':'10px',
       },
       gradientColorStops:{
         'btnclr1':'#037BDB',
